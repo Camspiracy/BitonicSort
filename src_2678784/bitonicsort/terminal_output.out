@@ -1,0 +1,980 @@
+a.out num_elems low_limit
+running omp 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+Validation failedSize of list: 16 
+Sequential time: 0.000000 s
+Done
+running omp 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+1900.705811 3023.069824 2985.262451 4845.724609 2506.393555 5111.127930 1017.661438 589.264221 1655.380371 1955.864380 3518.971436 959.886169 4044.832520 4256.768066 64.984955 1635.754761 
+ Size of list: 16 
+Sequential time: 0.000000 s
+Done
+running omp 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+1900.705811 3023.069824 2985.262451 4845.724609 2506.393555 5111.127930 1017.661438 589.264221 1655.380371 1955.864380 3518.971436 959.886169 4044.832520 4256.768066 64.984955 1635.754761 
+ Size of list: 16 
+Sequential time: 0.000000 s
+Done
+running omp 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+1900.705811 3023.069824 2985.262451 4845.724609 2506.393555 5111.127930 1017.661438 589.264221 1655.380371 1955.864380 3518.971436 959.886169 4044.832520 4256.768066 64.984955 1635.754761 1900.705811 3023.069824 2985.262451 4845.724609 2506.393555 5111.127930 1017.661438 589.264221 1655.380371 1955.864380 3518.971436 959.886169 4044.832520 4256.768066 64.984955 1635.754761 
+ Size of list: 16 
+Sequential time: 0.000000 s
+Done
+running omp 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+1900.705811 3023.069824 2985.262451 4845.724609 2506.393555 5111.127930 1017.661438 589.264221 1655.380371 1955.864380 3518.971436 959.886169 4044.832520 4256.768066 64.984955 1635.754761 
+ ------------/n1900.705811 3023.069824 2985.262451 4845.724609 2506.393555 5111.127930 1017.661438 589.264221 1655.380371 1955.864380 3518.971436 959.886169 4044.832520 4256.768066 64.984955 1635.754761 
+ Size of list: 16 
+Sequential time: 0.000000 s
+Done
+running omp 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+1900.705811 3023.069824 2985.262451 4845.724609 2506.393555 5111.127930 1017.661438 589.264221 1655.380371 1955.864380 3518.971436 959.886169 4044.832520 4256.768066 64.984955 1635.754761 
+ ------------
+1900.705811 3023.069824 2985.262451 4845.724609 2506.393555 5111.127930 1017.661438 589.264221 1655.380371 1955.864380 3518.971436 959.886169 4044.832520 4256.768066 64.984955 1635.754761 
+ Size of list: 16 
+Sequential time: 0.000000 s
+Done
+running omp 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+1900.705811 3023.069824 2985.262451 4845.724609 2506.393555 5111.127930 1017.661438 589.264221 1655.380371 1955.864380 3518.971436 959.886169 4044.832520 4256.768066 64.984955 1635.754761 
+ ------------
+2985.000000 5111.000000 3023.000000 4845.724609 4845.000000 5111.127930 1017.661438 589.264221 1655.380371 1955.864380 3518.971436 959.886169 4044.832520 4256.768066 64.984955 1635.754761 
+ Size of list: 16 
+Sequential time: 0.000001 s
+Done
+running omp 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+1900.705811 3023.069824 2985.262451 4845.724609 2506.393799 5111.127930 1017.661438 589.264282 1655.380371 1955.864380 3518.971436 959.886169 4044.832520 4256.768066 64.984955 1635.754761 
+ ------------
+64.984955 589.264282 959.886169 1017.661438 1635.754761 1655.380371 1900.705811 1955.864380 2506.393799 2985.262451 3023.069824 3518.971436 4044.832520 4256.768066 4845.724609 5111.127930 
+Validation passed.
+Size of list: 16 
+Sequential time: 0.000004 s
+Done
+running omp 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+Validation passed.
+Size of list: 1024 
+Sequential time: 0.000157 s
+Done
+running omp 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+Validation passed.
+Size of list: 1048576 
+Sequential time: 0.426961 s
+Done
+running omp 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+Validation passed.
+Size of list: 1048576 
+Sequential time: 0.420107 s
+Done
+./run.sh: line 6: ./bitonic_omp: No such file or directory
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+Validation passed.
+Size of list: 1048576 
+Sequential time: 0.414027 s
+Done
+./run.sh: line 6: ./bitonic_omp: No such file or directory
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+Validation passed.
+Size of list: 1048576 
+Sequential time: 0.411955 s
+Done
+./run.sh: line 6: ./bitonic_omp: No such file or directory
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+Validation passed.
+Size of list: 1048576 
+Sequential time: 0.464079 s
+Done
+./run.sh: line 6: ./bitonic_omp: No such file or directory
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+Validation passed.
+Size of list: 1048576 
+Sequential time: 0.413385 s
+Done
+./run.sh: line 6: ./bitonic_omp: No such file or directory
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+Validation passed.
+Size of list: 1048576 
+Sequential time: 0.413405 s
+Done
+./run.sh: line 6: ./bitonic_omp: No such file or directory
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+running mpi 
+Validation passed.
+Size of list: 1048576 
+Sequential time: 0.429324 s
+Done
+running omp 
+sequential time: 0.000000
+running mpi 
+sequential time: 0.000000
+running mpi 
+sequential time: 0.000000
+running mpi 
+sequential time: 0.000000
+running mpi 
+sequential time: 0.000000
+running mpi 
+sequential time: 0.000000
+running mpi 
+sequential time: 0.000000
+running mpi 
+sequential time: 0.000000
+running mpi 
+sequential time: 0.000000
+./run.sh: line 2: ./bitonic: No such file or directory
+running omp 
+sequential time: 0.000000
+running mpi 
+sequential time: 0.000000
+running mpi 
+sequential time: 0.000000
+running mpi 
+sequential time: 0.000000
+running mpi 
+sequential time: 0.000000
+running mpi 
+sequential time: 0.000000
+running mpi 
+sequential time: 0.000000
+running mpi 
+sequential time: 0.000000
+running mpi 
+sequential time: 0.000000
+Validation passed.
+Size of list: 1048576 
+Sequential time: 0.409530 s
+Done
+./run.sh: line 6: ./bitonic_omp: No such file or directory
+running mpi 
+sequential time: 0.000000
+running mpi 
+sequential time: 0.000000
+running mpi 
+sequential time: 0.000000
+running mpi 
+sequential time: 0.000000
+running mpi 
+sequential time: 0.000000
+running mpi 
+sequential time: 0.000000
+running mpi 
+sequential time: 0.000000
+running mpi 
+sequential time: 0.000000
+Validation passed.
+Size of list: 16 
+Sequential time: 0.000002 s
+Done
+Validation passed.
+Size of list: 16 
+sequential time: 0.000002
+For loop time: 0.000182 s
+running mpi 
+sequential time: 0.000000
+running mpi 
+sequential time: 0.000000
+running mpi 
+sequential time: 0.000000
+running mpi 
+sequential time: 0.000000
+running mpi 
+sequential time: 0.000000
+running mpi 
+sequential time: 0.000000
+running mpi 
+sequential time: 0.000000
+running mpi 
+sequential time: 0.000000
+Validation passed.
+Size of list: 16 
+Sequential time: 0.000002 s
+Done
+Validation passed.
+Size of list: 16 
+sequential time: 0.000002
+For loop time: 0.003269 s
+running mpi 
+sequential time: 0.000000
+running mpi 
+sequential time: 0.000000
+running mpi 
+sequential time: 0.000000
+running mpi 
+sequential time: 0.000000
+running mpi 
+sequential time: 0.000000
+running mpi 
+sequential time: 0.000000
+running mpi 
+sequential time: 0.000000
+running mpi 
+sequential time: 0.000000
+Validation passed.
+Size of list: 16 
+Sequential time: 0.000004 s
+Done
+Validation passed.
+Size of list: 1048576 
+sequential time: 0.424127
+For loop time: 0.070363 s
+running mpi 
+sequential time: 0.000000
+running mpi 
+sequential time: 0.000000
+running mpi 
+sequential time: 0.000000
+running mpi 
+sequential time: 0.000000
+running mpi 
+sequential time: 0.000000
+running mpi 
+sequential time: 0.000000
+running mpi 
+sequential time: 0.000000
+running mpi 
+sequential time: 0.000000
+Validation passed.
+Size of list: 16 
+Sequential time: 0.000004 s
+Done
+Validation passed.
+Size of list: 16 
+Sequential time: 0.000005 s
+Done
+Validation passed.
+Size of list: 33554432 
+sequential time: 20.046684
+For loop time: 3.940212 s
+running mpi 
+sequential time: 0.000000
+running mpi 
+sequential time: 0.000000
+running mpi 
+sequential time: 0.000000
+running mpi 
+sequential time: 0.000000
+running mpi 
+sequential time: 0.000000
+running mpi 
+sequential time: 0.000000
+running mpi 
+sequential time: 0.000000
+running mpi 
+sequential time: 0.000000
+Validation passed.
+Size of list: 16 
+Sequential time: 0.000004 s
+Done
+Validation passed.
+Size of list: 33554432 
+sequential time: 19.782722
+For loop time: 4.135410 s
+Rank 0 
+Validation failed
+running mpi 
+sequential time: 0.000000
+Rank 6 
+Validation failed
+Rank 5 
+Validation failed
+Rank 2 
+Validation failed
+Rank 3 
+Validation failed
+Rank 1 
+Validation failed
+Rank 4 
+Validation failed
+Rank 7 
+Validation failed
+Validation passed.
+Size of list: 16 
+Sequential time: 0.000005 s
+Done
+Validation passed.
+Size of list: 16 
+Sequential time: 0.000004 s
+Done
+Validation passed.
+Size of list: 16 
+sequential time: 0.000003
+For loop time: 0.004912 s
+Before sort (rank 4): 2774.18 1988.98 
+After sort (rank 4): 1988.98 2774.18 
+Validation passed.
+Before sort (rank 5): 4756.68 1519.17 
+After sort (rank 5): 4756.68 1519.17 
+Validation failed
+Before sort (rank 6): 3967.64 3792.2 
+After sort (rank 6): 3792.2 3967.64 
+Validation passed.
+Before sort (rank 7): 3169.13 537.471 
+After sort (rank 7): 3169.13 537.471 
+Validation failed
+Before sort (rank 0): 3112.98 1124.93 
+After sort (rank 0): 1124.93 3112.98 
+Validation passed.
+Before sort (rank 3): 3550.58 2470.6 
+After sort (rank 3): 3550.58 2470.6 
+Validation failed
+Before sort (rank 1): 5120.8 3428.73 
+After sort (rank 1): 5120.8 3428.73 
+Validation failed
+Before sort (rank 2): 1582.93 2948.01 
+After sort (rank 2): 1582.93 2948.01 
+Validation passed.
+Validation passed.
+Size of list: 16 
+Sequential time: 0.000002 s
+Done
+Validation passed.
+Size of list: 16 
+sequential time: 0.000002
+For loop time: 0.000277 s
+Before sort (rank 1): 3397.10 5234.88 
+After sort (rank 1): 5234.88 3397.10 
+Validation failed
+Before sort (rank 3): 1840.08 4282.59 
+After sort (rank 3): 4282.59 1840.08 
+Validation failed
+Before sort (rank 4): 1069.21 1067.08 
+After sort (rank 4): 1067.08 1069.21 
+Validation passed.
+Before sort (rank 5): 3047.42 3341.26 
+After sort (rank 5): 3341.26 3047.42 
+Validation failed
+Before sort (rank 7): 1477.57 5123.41 
+After sort (rank 7): 5123.41 1477.57 
+Validation failed
+Before sort (rank 0): 4145.83 2936.13 
+After sort (rank 0): 2936.13 4145.83 
+Before sort (rank 2): 2614.36 4768.06 
+After sort (rank 2): 2614.36 4768.06 
+Validation passed.
+Before sort (rank 6): 4964.11 63.71 
+After sort (rank 6): 63.71 4964.11 
+Validation passed.
+Validation passed.
+Validation passed.
+Size of list: 16 
+Sequential time: 0.000002 s
+Done
+Validation passed.
+Size of list: 16 
+sequential time: 0.000005
+For loop time: 0.004641 s
+Before sort (rank 5): 2313.06 4735.99 
+After sort (rank 5): 4735.99 2313.06 
+Validation failed
+Before sort (rank 0): 723.04 4390.09 
+After sort (rank 0): 723.04 4390.09 
+Validation passed.
+Before sort (rank 1): 2694.56 3917.52 
+After sort (rank 1): 3917.52 2694.56 
+Validation failed
+Before sort (rank 2): 1883.87 662.46 
+Before sort (rank 4): 3081.25 5203.48 
+After sort (rank 4): 3081.25 5203.48 
+Validation passed.
+Before sort (rank 7): 736.76 3766.99 
+After sort (rank 7): 3766.99 736.76 
+Validation failed
+After sort (rank 2): 662.46 1883.87 
+Validation passed.
+Before sort (rank 6): 1523.41 4250.63 
+After sort (rank 6): 1523.41 4250.63 
+Validation passed.
+Before sort (rank 3): 1099.52 177.46 
+After sort (rank 3): 1099.52 177.46 
+Validation failed
+Size of list: 16 
+Validation passed
+Sequential time: 0.000002 s
+Done
+Size of list: 16 
+Validation passed
+sequential time: 0.000002
+For loop time: 0.004656 s
+Initial data (per rank):
+Rank 0: 15.21 84.83 
+Rank 1: 50.83 25.79 
+Rank 2: 36.62 67.28 
+Rank 3: 73.16 59.18 
+Rank 4: 8.78 0.30 
+Rank 5: 44.50 91.54 
+Rank 6: 80.05 32.61 
+Rank 7: 66.01 73.88 
+
+Validation PASSED
+Total MPI runtime: 0.000027 seconds
+Size of list: 16 
+Validation passed
+Sequential time: 0.000003 s
+Done
+Size of list: 16 
+Validation passed
+sequential time: 0.000003
+For loop time: 0.002604 s
+Rank 1: 78.64 82.70 
+Rank 0: 92.65 41.26 
+Rank 2: 64.32 73.73 
+Rank 3: 50.31 15.23 
+Rank 4: 85.76 56.14 
+Rank 5: 72.28 98.20 
+Rank 6: 7.71 89.04 
+Rank 7: 44.21 30.97 
+
+Validation passed
+Total MPI runtime: 0.000025 seconds
+Size of list: 16 
+Validation passed
+Sequential time: 0.000003 s
+Done
+Size of list: 16 
+Validation passed
+sequential time: 0.000003
+For loop time: 0.097965 s
+
+Validation passed
+Total MPI runtime: 0.000087 seconds
+Size of list: 16 
+Validation passed
+Sequential time: 0.000005 s
+Size of list: 16 
+Validation passed
+sequential time: 0.000005
+For loop time: 0.058663 s
+Validation passed
+Total MPI runtime: 0.000192 seconds
+Size of list: 16 
+Validation passed
+Sequential time: 0.000006 s
+Number of processing elements: 16 
+Size of list: 16 
+Validation passed
+sequential time: 0.000005
+For loop time: 0.006585 s
+Validation passed
+Total MPI runtime: 0.000128 seconds
+Size of list: 16 
+Validation passed
+Sequential time: 0.000007 s
+Number of processing elements: 16 
+Size of list: 16 
+Validation passed
+sequential time: 0.000006
+For loop time: 0.000352 s
+Validation passed
+Total MPI runtime: 0.000082 seconds
+Size of list: 16 
+Validation passed
+Sequential time: 0.000006 s
+Validation passed
+Total MPI runtime: 0.000106 seconds
+Size of list: 16 
+Validation passed
+Sequential time: 0.000005 s
+Validation passed
+Total MPI runtime: 0.000189 seconds
+Size of list: 16 
+Validation passed
+Sequential time: 0.000006 s
+Number of processing elements: 16 
+Size of list: 16 
+Validation passed
+sequential time: 0.000000
+For loop time: 0.000330 s
+Validation passed
+Total MPI runtime: 0.000141 seconds
+Size of list: 16 
+Validation passed
+Sequential time: 0.000005 s
+Number of processing elements: 16 
+Size of list: 16 
+Validation passed
+sequential time: 0.000000
+For loop time: 0.000588 s
+Validation passed
+Total MPI runtime: 0.000097 seconds
+Size of list: 16 
+Validation passed
+Serial time: 0.000005 s
+Number of processing elements: 16 
+Size of list: 16 
+Validation passed
+Serial time: 0.000005
+For loop time: 0.000371 s
+Number of processing elements: 8 
+Size of list: 16 
+ Serial runtime: 0.000006s
+Validation passed
+MPI runtime: 0.000085 seconds
+Size of list: 16 
+Validation passed
+Serial time: 0.000006 s
+Serial runtime: 0.000005
+Number of processing elements: 16 
+Size of list: 16 
+Validation passed
+For loop runtime: 0.000447 s
+For loop speedup: 91.152660 s
+Number of processing elements: 8 
+Size of list: 16 
+Serial runtime: 0.000005s
+Validation passed
+MPI runtime: 0.000072 seconds
+MPI speedup: 14.972113 s
+Size of list: 16 
+Validation passed
+Serial time: 0.000007 s
+Serial runtime: 0.000006
+Number of processing elements: 16 
+Size of list: 16 
+Validation passed
+For loop runtime: 0.000541 s
+For loop speedup: 87.521383 s
+Number of processing elements: 8 
+Size of list: 16 
+Serial runtime: 0.000005s
+Validation passed
+MPI runtime: 0.000070 seconds
+MPI speedup: 14.938879 s
+Size of list: 16 
+Validation passed
+Serial time: 0.000005 s
+Serial runtime: 0.000005
+Number of processing elements: 16 
+Size of list: 16 
+Validation passed
+For loop runtime: 0.000348 s
+For loop speedup: 0.013206 s
+Number of processing elements: 8 
+Size of list: 16 
+Serial runtime: 0.000006s
+Validation passed
+MPI runtime: 0.000121 seconds
+MPI speedup: 0.051895 s
+Size of list: 33554432 
+Validation passed
+Serial time: 19.240014 s
+Serial runtime: 19.902430
+Number of processing elements: 33554432 
+Size of list: 33554432 
+Validation passed
+For loop runtime: 4.403937 s
+For loop speedup: 4.519236 s
+Number of processing elements: 8 
+Size of list: 33554432 
+Serial runtime: 49.895023s
+Validation passed
+MPI runtime: 4.859360 seconds
+MPI speedup: 10.267819 s
+Size of list: 33554432 
+Validation passed
+Serial time: 19.320313 s
+Serial runtime: 20.271031
+Number of processing elements: 33554432 
+Size of list: 33554432 
+Validation passed
+OMP runtime: 4.936941 s
+OMP speedup: 4.105990 s
+Number of processing elements: 8 
+Size of list: 33554432 
+Serial runtime: 48.798984s
+Validation passed
+MPI runtime: 4.630431 seconds
+MPI speedup: 10.538756 s
+Size of list: 16 
+Validation passed
+Serial time: 0.000005 s
+Serial runtime: 0.000005
+Number of processing elements: 16 
+Size of list: 16 
+Validation passed
+OMP runtime: 0.000324 s
+OMP speedup: 0.015735 s
+Number of processing elements: 8 
+Size of list: 16 
+Serial runtime: 0.000002s
+Validation passed
+MPI runtime: 0.000114 seconds
+MPI speedup: 0.018423 s
+Size of list: 32 
+Validation passed
+Serial time: 0.000014 s
+Serial runtime: 0.000017
+Number of processing elements: 32 
+Size of list: 32 
+Validation passed
+OMP runtime: 0.000485 s
+OMP speedup: 0.035870 s
+Number of processing elements: 8 
+Size of list: 32 
+Serial runtime: 0.000009s
+Validation passed
+MPI runtime: 0.000063 seconds
+MPI speedup: 0.137407 s
+Size of list: 64 
+Validation passed
+Serial time: 0.000028 s
+Serial runtime: 0.000009
+Number of processing elements: 64 
+Size of list: 64 
+Validation passed
+OMP runtime: 0.000221 s
+OMP speedup: 0.042732 s
+Number of processing elements: 8 
+Size of list: 64 
+Serial runtime: 0.000012s
+Validation passed
+MPI runtime: 0.000084 seconds
+MPI speedup: 0.147212 s
+Size of list: 128 
+Validation passed
+Serial time: 0.000047 s
+Serial runtime: 0.000019
+Number of processing elements: 128 
+Size of list: 128 
+Validation passed
+OMP runtime: 0.000220 s
+OMP speedup: 0.085342 s
+Number of processing elements: 8 
+Size of list: 128 
+Serial runtime: 0.000026s
+Validation passed
+MPI runtime: 0.000231 seconds
+MPI speedup: 0.111617 s
+Size of list: 254 
+Validation failed
+Serial time: 0.000094 s
+Serial runtime: 0.000073
+Number of processing elements: 254 
+Size of list: 254 
+Validation failed
+OMP runtime: 0.000350 s
+OMP speedup: 0.208554 s
+Number of processing elements: 8 
+Size of list: 254 
+Serial runtime: 0.000096s
+Validation passed
+MPI runtime: 0.000100 seconds
+MPI speedup: 0.961726 s
+Size of list: 508 
+Validation failed
+Serial time: 0.000206 s
+Serial runtime: 0.000237
+Number of processing elements: 508 
+Size of list: 508 
+Validation failed
+OMP runtime: 0.000558 s
+OMP speedup: 0.425329 s
+Number of processing elements: 8 
+Size of list: 508 
+Serial runtime: 0.000247s
+Validation passed
+MPI runtime: 0.000156 seconds
+MPI speedup: 1.588308 s
+Size of list: 1016 
+Validation failed
+Serial time: 0.000423 s
+Serial runtime: 0.000434
+Number of processing elements: 1016 
+Size of list: 1016 
+Validation failed
+OMP runtime: 0.000529 s
+OMP speedup: 0.821268 s
+Number of processing elements: 8 
+Size of list: 1016 
+Serial runtime: 0.000306s
+Validation passed
+MPI runtime: 0.000087 seconds
+MPI speedup: 3.532409 s
+Size of list: 2032 
+Validation failed
+Serial time: 0.001004 s
+Serial runtime: 0.001109
+Number of processing elements: 2032 
+Size of list: 2032 
+Validation failed
+OMP runtime: 0.000711 s
+OMP speedup: 1.560368 s
+Number of processing elements: 8 
+Size of list: 2032 
+Serial runtime: 0.000938s
+Validation passed
+MPI runtime: 0.000272 seconds
+MPI speedup: 3.442859 s
+Size of list: 4096 
+Validation passed
+Serial time: 0.002169 s
+Serial runtime: 0.002055
+Number of processing elements: 4096 
+Size of list: 4096 
+Validation passed
+OMP runtime: 0.000902 s
+OMP speedup: 2.277402 s
+Number of processing elements: 8 
+Size of list: 4096 
+Serial runtime: 0.002853s
+Validation passed
+MPI runtime: 0.000620 seconds
+MPI speedup: 4.598097 s
+Size of list: 8192 
+Validation passed
+Serial time: 0.004366 s
+Serial runtime: 0.001582
+Number of processing elements: 8192 
+Size of list: 8192 
+Validation passed
+OMP runtime: 0.000697 s
+OMP speedup: 2.269298 s
+Number of processing elements: 8 
+Size of list: 8192 
+Serial runtime: 0.005779s
+Validation passed
+MPI runtime: 0.000499 seconds
+MPI speedup: 11.579047 s
+Size of list: 16384 
+Validation passed
+Serial time: 0.009751 s
+Serial runtime: 0.003701
+Number of processing elements: 16384 
+Size of list: 16384 
+Validation passed
+OMP runtime: 0.001812 s
+OMP speedup: 2.042082 s
+Number of processing elements: 8 
+Size of list: 16384 
+Serial runtime: 0.008652s
+Validation passed
+MPI runtime: 0.001013 seconds
+MPI speedup: 8.537049 s
+Size of list: 32768 
+Validation passed
+Serial time: 0.013067 s
+Serial runtime: 0.008057
+Number of processing elements: 32768 
+Size of list: 32768 
+Validation passed
+OMP runtime: 0.004170 s
+OMP speedup: 1.932038 s
+Number of processing elements: 8 
+Size of list: 32768 
+Serial runtime: 0.016691s
+Validation passed
+MPI runtime: 0.002062 seconds
+MPI speedup: 8.093866 s
+Size of list: 256 
+Validation passed
+Serial time: 0.000097 s
+Serial runtime: 0.000108
+Number of processing elements: 256 
+Size of list: 256 
+Validation passed
+OMP runtime: 0.000452 s
+OMP speedup: 0.239474 s
+Number of processing elements: 8 
+Size of list: 256 
+Serial runtime: 0.000079s
+Validation passed
+MPI runtime: 0.000055 seconds
+MPI speedup: 1.425086 s
+Size of list: 33554432 
+Validation passed
+Serial time: 19.626350 s
+Serial runtime: 20.120055
+Number of processing elements: 33554432 
+Size of list: 33554432 
+Validation passed
+OMP runtime: 4.513606 s
+OMP speedup: 4.457646 s
+Number of processing elements: 8 
+Size of list: 33554432 
+Serial runtime: 49.593056s
+Validation passed
+MPI runtime: 4.615558 seconds
+MPI speedup: 10.744759 s
+Size of list: 33554432 
+Validation passed
+Serial time: 19.286212 s
+Serial runtime: 19.829406
+Number of processing elements: 33554432 
+Size of list: 33554432 
+Validation passed
+OMP runtime: 10.949558 s
+OMP speedup: 1.810978 s
+Number of processing elements: 2 
+Size of list: 33554432 
+Serial runtime: 21.499772s
+Validation passed
+MPI runtime: 3.354438 seconds
+MPI speedup: 6.409351 s
+Size of list: 33554432 
+Validation passed
+Serial time: 19.921165 s
+Serial runtime: 20.102504
+Number of processing elements: 33554432 
+Size of list: 33554432 
+Validation passed
+OMP runtime: 7.998773 s
+OMP speedup: 2.513199 s
+Number of processing elements: 4 
+Size of list: 33554432 
+Serial runtime: 43.706727s
+Validation passed
+MPI runtime: 4.634440 seconds
+MPI speedup: 9.430854 s
+Size of list: 33554432 
+Validation passed
+Serial time: 20.491619 s
+Serial runtime: 20.401975
+Number of processing elements: 33554432 
+Size of list: 33554432 
+Validation passed
+OMP runtime: 4.996117 s
+OMP speedup: 4.083566 s
+Number of processing elements: 8 
+Size of list: 33554432 
+Serial runtime: 49.724904s
+Validation passed
+MPI runtime: 5.023795 seconds
+MPI speedup: 9.897877 s
+Size of list: 33554432 
+Validation passed
+Serial time: 19.454314 s
+Serial runtime: 21.328028
+Number of processing elements: 8 
+Size of list: 33554432 
+Validation passed
+OMP runtime: 4.911432 s
+OMP speedup: 4.342527 s
+Number of processing elements: 8 
+Size of list: 33554432 
+Serial runtime: 30.807492s
+Validation passed
+MPI runtime: 4.038717 seconds
+MPI speedup: 7.628039 s
